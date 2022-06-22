@@ -1,7 +1,4 @@
 <html>
-  <head>
-    <title>Oh no</title>
-  </head>
   <body>
     <h2>
       the github
